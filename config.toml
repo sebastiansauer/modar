@@ -6,7 +6,7 @@ googleAnalytics = "UA-99297878-1"
 disqusShortname = "https-sebastiansauer-github-io"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #before_chapter_script = "_common.R"
-enableEmoji = TRUE
+#enableEmoji = TRUE
 
 
 [params]
@@ -33,11 +33,11 @@ enableEmoji = TRUE
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "Start"
     url = "/about/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Hinweise"
     url = "/"
 
 

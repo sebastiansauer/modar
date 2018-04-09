@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on Webseite zum Buch &#39;Moderne Datenanalyse mit R&#39;</title>
+    <link>/tags/info/</link>
+    <description>Recent content in Info on Webseite zum Buch &#39;Moderne Datenanalyse mit R&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-De</language>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hier entsteht eine Webseite</title>
+      <link>/2018/04/09/hier-entsteht-eine-webseite/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/09/hier-entsteht-eine-webseite/</guid>
+      <description>Hier entsteht die Webseite zum Buch &amp;ldquo;Moderne Datenanalyse mit R&amp;rdquo; von Sebastian Sauer im Springer-Verlag.</description>
+    </item>
+    
+  </channel>
+</rss>
