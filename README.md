@@ -2,6 +2,8 @@
 
 Eine Einführung in moderne Techniken der Datenanalyse mit R
 
+*Sebastian Sauer*, 2018
+
 
 
 **Diese Webseite ist noch nicht im Betrieb. Sie sehen eine Vorab-Version.**
@@ -13,7 +15,7 @@ Eine Einführung in moderne Techniken der Datenanalyse mit R
 
 ## Bezug
 
-- Springer
+- Springer-Verlag
 
 
 
