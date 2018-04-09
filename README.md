@@ -4,10 +4,9 @@ Eine Einführung in moderne Techniken der Datenanalyse mit R
 
 
 
----
-Diese Webseite ist noch nicht im Betrieb. Sie sehen eine Vorab-Version.  
+**Diese Webseite ist noch nicht im Betrieb. Sie sehen eine Vorab-Version.**
 
----
+
 
 
 
