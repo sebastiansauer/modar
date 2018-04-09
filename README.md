@@ -1,12 +1,15 @@
 ## Moderne Datenanalyse mit R
 
-
----
-Diese Webseite ist in Bearbeitung.
-
----
-
 Eine Einführung in moderne Techniken der Datenanalyse mit R
+
+
+
+---
+Diese Webseite ist noch nicht im Betrieb. Sie sehen eine Vorab-Version.  
+
+---
+
+
 
 
 ## Bezug
