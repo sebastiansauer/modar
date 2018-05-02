@@ -95,3 +95,8 @@ Vorwort
 29 Programmieren mit dplyr 
 
 Anhang   
+
+
+## Daten
+
+- stats_test (csv)[https://raw.github.com/sebastiansauer/modar/master/datasets/stats_test.csv]
