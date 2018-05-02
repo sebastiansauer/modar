@@ -101,17 +101,17 @@ Anhang
 
 - stats_test [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/stats_test.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/stats_test.RData)
 - wo_men [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wo_men.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/wo_men.RData)
-- extra [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/extra.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/extra.RData)
-- Werte [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.RData)
-- cultvalues [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.RData)
-- afd  [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.RData)
-- soces [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.RData)
-- elec_results [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.RData)
-- wellbeing [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.RData)
-- sentiws [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.RData)
-- wahlkreise_shp [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wahlkreise_shp.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/wahlkreise_shp.RData)
+- extra [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/extra.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/extra.RData)
+- Werte [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.RData)
+- cultvalues [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.RData)
+- afd  [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.RData)
+- soces [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.RData)
+- elec_results [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.RData)
+- wellbeing [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.RData)
+- sentiws [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.RData)
+- wahlkreise_shp [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wahlkreise_shp.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/wahlkreise_shp.RData)
 - de_L [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/de_L.RData)
-- AfD-Parteiprogramm 2016 [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.csv) [.pdf](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.RData)
+- AfD-Parteiprogramm 2016 [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.csv) [.pdf](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.RData)
 
 
 
