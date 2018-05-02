@@ -97,6 +97,19 @@ Vorwort
 Anhang   
 
 
-## Daten
+## Datensätze
 
-- stats_test (csv)[https://raw.github.com/sebastiansauer/modar/master/datasets/stats_test.csv]
+- stats_test [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/stats_test.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/stats_test.Rdata)
+- wo_men [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wo_men.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/wo_men.Rdata)
+- extra [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/extra.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/extra.Rdata)
+- Werte [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.Rdata)
+- cultvalues [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.Rdata)
+- afd  [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.Rdata)
+- soces [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.Rdata)
+- elec_results [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.Rdata)
+- wellbeing [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.Rdata)
+- sentiws [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.Rdata)
+- wahlkreise_shp [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wahlkreise_shp.csv) [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/wahlkreise_shp.Rdata)
+- de_L [.Rdata](https://raw.github.com/sebastiansauer/modar/master/datasets/de_L.Rdata)
+- AfD-Parteiprogramm 2016 [csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.csv) [.pdf](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.Rdata)
+
