@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hinweise"
 date: "2011-11-20"
 ---
 
