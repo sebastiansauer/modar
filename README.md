@@ -6,11 +6,6 @@ Eine Einführung in moderne Techniken der Datenanalyse mit R
 
 
 
-**Diese Webseite ist noch nicht im Betrieb. Sie sehen eine Vorab-Version.**
-
-
-
-
 
 
 ## Bezug
@@ -105,7 +100,7 @@ Anhang
 - Werte [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/Werte.RData)
 - cultvalues [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/cultvalues.RData)
 - afd  [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/afd.RData)
-- soces [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.RData)
+- socec [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/socec.RData)
 - elec_results [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/elec_results.RData)
 - wellbeing [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/wellbeing.RData)
 - sentiws [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.csv) [.RData](https://raw.github.com/sebastiansauer/modar/master/datasets/sentiws.RData)
