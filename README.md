@@ -114,6 +114,12 @@ Anhang
 - AfD-Parteiprogramm 2016 [.csv](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.csv) [.pdf](https://raw.github.com/sebastiansauer/modar/master/datasets/afd_progrmam.RData)
 
 
+---
+
+[ALLE CSV-DATENSÄTZE als Zip-Archiv](https://raw.github.com/sebastiansauer/modar/master/datasets/dataset-csv-modar.zip) 
+[ALLE Rdata-DATENSÄTZE als Zip-Archiv](https://raw.github.com/sebastiansauer/modar/master/datasets/dataset-RData-modar.zip) 
+
+
 
 ## Diagramme
 
