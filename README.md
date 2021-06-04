@@ -129,7 +129,7 @@ Anhang
 
 ## R-Syntax
 
-[Download](http://www.springer.com/cda/content/document/cda_downloaddocument/R-Syntax.zip?SGWID=0-0-45-1648817-p181556499)
+[Download](https://github.com/sebastiansauer/modar/tree/master/static/scripts)
 
 
 [Lizenz](http://www.springer.com/cda/content/document/cda_downloaddocument/Allgemeines+Ministerialblatt+AllMBl_30October2018_vol31_issue14_%2811%29.pdf?SGWID=0-0-45-1650116-p181556499)
