@@ -7,3 +7,6 @@
 *.t?mp
 .Rproj.user/*
 
+
+.Rproj.user/**
+
