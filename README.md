@@ -136,3 +136,8 @@ Anhang
 
 
 
+## Beispielkurs
+
+[Webseite eines Kurs zu Inhaltes des Buches](https://sebastiansauer.github.io/vorhersagemodellierung/index.html)
+
+
